@@ -1,4 +1,4 @@
-function initReact() {
+(function() {
 
 "use strict";
 
@@ -285,5 +285,5 @@ React.render(
   document.getElementById("content")
 );
 
-}
+})();
 
